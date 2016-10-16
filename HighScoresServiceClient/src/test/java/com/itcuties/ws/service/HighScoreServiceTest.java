@@ -24,7 +24,7 @@ import com.itcuties.serivces.xsd.HighScore;
 import com.itcuties.ws.HighScoreServiceStub;
 
 public class HighScoreServiceTest {
-
+}
 	@Test
 	public void testGetHighScores() {
 
